@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ExampleScript_c : MonoBehaviour
 {
-    public enum EName
+   /* public enum EName
     {
         Jen,
         Marc,
@@ -33,5 +33,5 @@ public class ExampleScript_c : MonoBehaviour
     void Update()
     {
         
-    }
+    }*/
 }
